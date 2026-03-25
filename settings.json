@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ray123itzme.aternos.me.",
+    "ip": "ray123itzme.aternos.me:19731.",
     "port": 19731,
     "version": "",
     "try-creative": false
